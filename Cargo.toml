@@ -1,5 +1,4 @@
 [workspace]
-phf = "0.11.0"
 resolver = "2"
 members = [
     "crates/sui",
